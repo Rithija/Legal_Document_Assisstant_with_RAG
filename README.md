@@ -11,7 +11,7 @@
 
 
 `![Application Screenshot](assets/app_screenshot1.png)`
-`![Application Screenshot](assets/app_screenshot1.png)`
+`![Application Screenshot](assets/app_screenshot2.png)`
 
 ---
 
