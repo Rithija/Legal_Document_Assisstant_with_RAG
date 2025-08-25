@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Data and DB - DO NOT UPLOAD THESE
+data/
+supreme_court_judgments/
+chroma_db/
+*.pkl
+*.log
+
+# IDEs
+.vscode/
+.idea/
